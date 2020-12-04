@@ -40,9 +40,9 @@
         </dependency>-->
     </dependencies>
 
-    <build>
+    <!--<build>
         <plugins>
-            <!--打包源码-->
+            &lt;!&ndash;打包源码&ndash;&gt;
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
@@ -60,5 +60,5 @@
                 </executions>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
 </project>
