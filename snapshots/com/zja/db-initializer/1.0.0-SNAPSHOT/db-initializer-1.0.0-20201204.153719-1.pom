@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.zja</groupId>
     <artifactId>db-initializer</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>db-initializer</name>
 
@@ -33,14 +33,9 @@
             <artifactId>lombok</artifactId>
             <optional>true</optional>
         </dependency>
-        <!--<dependency>
-            <groupId>com.dist.xdata.starter</groupId>
-            <artifactId>xdata-db-initializer</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
-        </dependency>-->
     </dependencies>
 
-    <!--<build>
+<!--    <build>
         <plugins>
             &lt;!&ndash;打包源码&ndash;&gt;
             <plugin>
